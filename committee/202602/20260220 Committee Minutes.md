@@ -11,7 +11,7 @@
 ## Apologies
 -	Adel Mina
 -	Austin Creighton
--	Chris Novak
+-	Chris Nowak
 -	Jason Dely
 -	Jonathan Corriveau
 -	Matin Foomani
