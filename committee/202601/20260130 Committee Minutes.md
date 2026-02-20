@@ -2,7 +2,7 @@
 ## Attendees
 -	Peter Jackson (facilitator)
 -	Austin Creighton
--	Chris Novak
+-	Chris Nowak
 -	Jason Dely
 -	Martin Turgeon
 -	Marc-Étienne (Marc) Bergeron
