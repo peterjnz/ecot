@@ -12,6 +12,7 @@ Committee responsibilities include
 |------|------|
 | [Antoine Dresch](https://www.linkedin.com/in/antoine-dresch/) | Asset Owner, Operator, End User |
 | [Austin Creighton](https://www.linkedin.com/in/austin-creighton/) | Service Provider |
+| [Chris Nowak](https://www.linkedin.com/in/chris-nowak-098b8524/) | Government |
 | [Denrich Sananda](https://www.linkedin.com/in/denrichsananda/) | Academic |
 | [Jason Dely](https://www.linkedin.com/in/jasonjdely/) | Service Provider |
 | [Marc-Etienne Bergeron](https://www.linkedin.com/in/marc-%C3%A9tienne-bergeron-72a462b0/) | Service Provider |
