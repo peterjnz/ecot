@@ -1,5 +1,6 @@
-# Speaker Information – EC ICS/OT Cyber Forum
+# Speaker Information – EC ICS/OT Cyber Forum (EN)
 Thank you for your interest in presenting at an Eastern Canada ICS/OT Cyber Community forum.
+This information is also available in [FR-CA](guidelines_FR_CA.md)
 ## Eastern Canada ICS/OT Cyber Community Group
 ### Purpose
 A trusted, practitioner-focused forum where Canadian ICS/OT professionals share real-world experiences, discuss emerging threats, and exchange practical approaches to improving operational resilience.
