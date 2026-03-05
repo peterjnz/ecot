@@ -18,13 +18,21 @@ Nominally, virtual forums (MSTeams) and, as the group matures, expanding to hybr
 
 We aim to host approximately one-quarter of our events in French (Canadian), subject to speaker availability.
 
-## Typical Online Forum Agenda (weekday afternoon)
+## Typical Online Forum Agenda
 
 -	[1:45 pm] [Pre-call technical checks]
 -	2:00 pm Start call – intro from host
 -	2:05 pm Speaker presentation using slides
 -	2:35 pm Open discussion forum on presentation topic
 -	3:00 pm Call ends
+
+### Scheduling
+
+We usually schedule:
+- At least 1 month prior to the forum
+- At least 2 forums in advance (to share next event)
+- Weekday time that suits Eastern Canada
+- Date/time driven (typically) by speaker preference/availability
 
 ## Typical Talk Content
 The talk should have a focus on topics of interest to the Eastern Canada ICS/OT Cyber Community
