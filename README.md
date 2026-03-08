@@ -39,8 +39,8 @@ Un forum de confiance permettant aux praticiens canadiens de partager leurs exp�
 -	Explorer les possibilités d’initiatives collaboratives (exercices, partage d’information, défense collective).
 -	Sensibiliser et accompagner les praticiens canadiens dans la compréhension des défis propres aux ICS/OT et contribuer au développement du corpus canadien de connaissances en cybersécurité ICS/OT.
 ## Portée
--	Focus : organisations industrielles et praticiens exploitant des systèmes ICS et OT.
--	Région : alignée sur l’Est du Canada, avec des liens vers des initiatives nationales et internationales.
+-	Cible : organisations industrielles et praticiens exploitant des systèmes ICS et OT.
+-	Région : axé sur l’Est du Canada, avec des liens vers des initiatives nationales et internationales.
 -	Exclusions : activités principalement motivées par des intérêts commerciaux ou marketing.
 ## Adhésion
 -	Ouverte aux propriétaires d’actifs, exploitants, universitaires, employés gouvernementaux et organisations de soutien telles que les fournisseurs de services ou de technologies.
